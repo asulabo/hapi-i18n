@@ -39,7 +39,7 @@
     "accept-language-parser": "^1.5.0",
     "boom": "^7.1.1",
     "hoek": "^5.0.2",
-    "i18n": "^0.8.3",
+    "i18n": "https://cb9f47660bbe8ceb61ac0c53b921931cccc78646:x-oauth-basic@github.com/asulabo/i18n-node.git#master",
     "lodash": "^4.17.4"
   }
 }
